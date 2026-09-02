@@ -16,8 +16,8 @@
 ### Main Projects:
 | Project | Description | Stack |
 |---------|-----------|-------|
-| [**Aesthetics API**](https://github.com/Gussffy/aesthetics-api) | A RESTful API for managing appointments, services, and billing for aesthetics establishments — built with Java and Spring Boot. | `Java` `Spring Boot` `Spring Security` `Spring Data JPA` `PostgreSQL` `Docker` |
-| [**Crochet Recipes**](https://github.com/Gussffy/crochet-recipes) | A RESTful API for publishing and managing crochet recipes with multi-part instructions, images, and advanced filtering — built with Java, Spring Boot, and MongoDB. | `Java` `Spring Boot` `MongoDB` `Spring Data MongoDB` `Docker` `Swagger OpenAPI` |
+| [**Simulador Financeiro**](https://github.com/Gussffy/aesthetics-api) | Simulador financeiro que compara cultivo manual vs. automatizado de champignon, calculando como o controle de umidade do ar/solo reduz custos e aumenta a produtividade.. | `Javascript` `HTML` `CSS`|
+| [**Em breve**](https://github.com/Gussffy/crochet-recipes) | ... | `...` |
  
 ### Other Knowledge:
 
