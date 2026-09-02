@@ -10,10 +10,8 @@
 </picture>
 
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,git,github)](https://skillicons.dev)
 
-### Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ### Main Projects:
 | Project | Description | Stack |
@@ -22,10 +20,5 @@
 | [**Crochet Recipes**](https://github.com/Gussffy/crochet-recipes) | A RESTful API for publishing and managing crochet recipes with multi-part instructions, images, and advanced filtering — built with Java, Spring Boot, and MongoDB. | `Java` `Spring Boot` `MongoDB` `Spring Data MongoDB` `Docker` `Swagger OpenAPI` |
  
 ### Other Knowledge:
-
-  
-### Studying in this moment:
-[![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=008000&height=10&section=footer&reversal=true"/>
