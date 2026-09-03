@@ -10,7 +10,7 @@
 </picture>
 
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,vscode,git,github)](https://skillicons.dev)
 
 
 ### Main Projects:
