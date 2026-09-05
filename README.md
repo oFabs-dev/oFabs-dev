@@ -16,9 +16,7 @@
 ### Main Projects:
 | Project | Description | Stack |
 |---------|-----------|-------|
-| [**Simulador Financeiro**](https://github.com/Gussffy/aesthetics-api) | Simulador financeiro que compara cultivo manual vs. automatizado de champignon, calculando como o controle de umidade do ar/solo reduz custos e aumenta a produtividade.. | `Javascript` `HTML` `CSS`|
-| [**Em breve**](https://github.com/Gussffy/crochet-recipes) | ... | `...` |
- 
-### Other Knowledge:
+| [**CogSolution**](https://github.com/oFabs-dev/CogSolutions) | O projeto propõe um sistema de monitoramento automatizado da umidade do substrato e do ar em ambientes de cultivo de champignon de Paris (Agaricus bisporus), usando sensores de umidade de solo e ar conectados a um Arduino, com coleta periódica de dados. As leituras são armazenadas em banco de dados e exibidas em um dashboard com histórico e alertas automáticos quando os valores saem das faixas ideais para cada. | `JavaScript` `HTML` `CSS` `MySQL`|
+| [**Em breve**]() | ... | `...` |
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=008000&height=10&section=footer&reversal=true"/>
