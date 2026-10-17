@@ -15,12 +15,31 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,mysql,vscode,git,github,nodejs,npm" alt="Minhas habilidades"/></a>
 </p>
 
-### 🚀 Principais projetos
-| Projeto | Descrição | Stack | Repositório |
-|:--------|:----------|:-----:|:-----------:|
-| 🏋️ $\color{#2ecc71}{\textbf{GymFabs}}$ | Site sobre musculação com quiz, calculadora de IMC e cadastro/login | <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql" height="28" alt="HTML, CSS, JavaScript, Node.js, MySQL"/> | [🔗 Acessar](https://github.com/oFabs-dev/Projeto-individual---GymFabs) |
-| 🛒 $\color{#2ecc71}{\textbf{InfoConnect}}$ | Sensores de baixo custo que medem fluxo e interesse do consumidor em supermercados (projeto em grupo) | <img src="https://skillicons.dev/icons?i=html,css,js,mysql,arduino" height="28" alt="HTML, CSS, JavaScript, MySQL, Arduino"/> | [🔗 Acessar](https://github.com/SPRINT2-ADS1A/InfoConnect-Sensores-para-fluxo-em-supermercados) |
-| 🍄 $\color{#2ecc71}{\textbf{CogSolutions}}$ | Monitoramento de umidade no cultivo de champignon com sensores e alertas | <img src="https://skillicons.dev/icons?i=js,mysql,arduino" height="28" alt="JavaScript, MySQL, Arduino"/> | [🔗 Acessar](https://github.com/oFabs-dev/CogSolutions) |
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:008000,100:2ecc71&height=3" alt=""/>
+
+<h3 align="center">🚀 Principais projetos</h3>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h1>🏋️</h1>
+      <b>GymFabs</b><br><br>
+      <sub>Site sobre musculação com quiz, calculadora de IMC e cadastro/login</sub><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql" height="22" alt="HTML, CSS, JavaScript, Node.js, MySQL"/><br><br>
+      <a href="https://github.com/oFabs-dev/Projeto-individual---GymFabs">🔗 Acessar</a>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h1>🛒</h1>
+      <b>InfoConnect</b><br><br>
+      <sub>Sensores que medem fluxo e interesse do consumidor em supermercados</sub><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,mysql,arduino" height="22" alt="HTML, CSS, JavaScript, MySQL, Arduino"/><br><br>
+      <a href="https://github.com/SPRINT2-ADS1A/InfoConnect-Sensores-para-fluxo-em-supermercados">🔗 Acessar</a>
+    </td>
+  </tr>
+</table>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:008000,100:2ecc71&height=3" alt=""/>
 
 <h3 align="center">🐍 Minhas contribuições</h3>
 <p align="center">
