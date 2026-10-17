@@ -3,13 +3,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Fabricio;Estudante+de+ADS+na+SPTech;Seja+bem-vindo!+:%29)](https://github.com/DenverCoder1/readme-typing-svg)
 
-### 👋 Sobre mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **SPTech**
-- 💻 Foco em desenvolvimento **full stack**
-- 📈 Uso este perfil para registrar minha evolução
+<h3 align="center">👋 Sobre mim</h3>
+<p align="center">
+  🎓 Estudante de <b>Análise e Desenvolvimento de Sistemas</b> na <b>SPTech</b><br>
+  💻 Foco em desenvolvimento <b>full stack</b><br>
+  📈 Uso este perfil para registrar minha evolução
+</p>
 
-### 🛠️ Principais habilidades
-[![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,mysql,vscode,git,github,nodejs,npm)](https://skillicons.dev)
+<h3 align="center">🛠️ Principais habilidades</h3>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,mysql,vscode,git,github,nodejs,npm" alt="Minhas habilidades"/></a>
+</p>
 
 ### 🚀 Principais projetos
 | Projeto | Descrição | Stack | Repositório |
