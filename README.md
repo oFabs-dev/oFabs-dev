@@ -12,7 +12,7 @@
 
 <h3 align="center">🛠️ Principais habilidades</h3>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,mysql,vscode,git,github,nodejs,npm" alt="Minhas habilidades"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,mysql,vscode,git,github" alt="Minhas habilidades"/></a>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:008000,100:2ecc71&height=3" alt=""/>
